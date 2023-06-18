@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- * magic - Demonstrates a magic trick by assigning a value to an unknown loc
- *
- * Return: Always 0
+ * magic - modify the value of a[2] to 98 using dereference (p+5)
+ * void params
+ * Return: 0
  */
+
 
 int main(void)
 {
